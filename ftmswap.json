@@ -23,6 +23,14 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0xbc2451AaD349b6B43FD05F4F0cC327F8A6bcA2d4.png"
     },
     {
+      "name": "HyperOrillium",
+      "address": "0x0575f8738EFdA7F512e3654F277C77e80C7d2725",
+      "symbol": "ORI",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x0575f8738EFdA7F512e3654F277C77e80C7d2725.png"
+    },
+    {
       "name": "DAI Stablecoin",
       "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
       "symbol": "DAI",
