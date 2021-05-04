@@ -65,7 +65,7 @@
     {
       "name": "Wrapped Bitcoin",
       "address": "0x321162Cd933E2Be498Cd2267a90534A804051b11",
-      "symbol": "WBTC",
+      "symbol": "BTC",
       "decimals": 8,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x321162Cd933E2Be498Cd2267a90534A804051b11.png"
