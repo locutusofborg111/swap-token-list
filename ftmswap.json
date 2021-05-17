@@ -160,27 +160,27 @@
     },
     {
       "name": "BORG",
-      "address": "0xe9828045632b32e2aac7f3a4c1511c0d8965576c",
+      "address": "0xE9828045632b32E2aaC7f3a4C1511C0d8965576C",
       "symbol": "BORG",
       "decimals": 8,
       "chainId": 250,
-      "logoURI": "https://rulesofaquisition.borgswap.exchange/static/media/borg.1df2dedf.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xE9828045632b32E2aaC7f3a4C1511C0d8965576C.png"
     },
     {
       "name": "BORGDAI",
-      "address": "0x4f16b83e55b92e6f8f7da6d78dd19d5a00954864",
+      "address": "0x4F16b83e55b92E6F8F7Da6D78Dd19d5a00954864",
       "symbol": "BORGDAI",
       "decimals": 9,
       "chainId": 250,
-      "logoURI": "https://rulesofaquisition.borgswap.exchange/static/media/borgdai.7819d00b.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x4F16b83e55b92E6F8F7Da6D78Dd19d5a00954864.png"
     },
     {
       "name": "Seven of Nine",
-      "address": "0x9a775700694b0af4b0dea668f809d453eac4cbcd",
+      "address": "0x9A775700694B0AF4B0DEa668f809d453EaC4Cbcd",
       "symbol": "SON",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://rulesofaquisition.borgswap.exchange/static/media/son.a95cf19d.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x9A775700694B0AF4B0DEa668f809d453EaC4Cbcd.png"
     },
     {
       "name": "Frax",
